@@ -1,0 +1,15 @@
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\EF.csproj.AssemblyReference.cache
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\EF.AssemblyInfoInputs.cache
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\EF.AssemblyInfo.cs
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\EF.csproj.CoreCompileInputs.cache
+D:\web\RepositoryPatternWithUOW\EF\bin\Debug\net5.0\EF.deps.json
+D:\web\RepositoryPatternWithUOW\EF\bin\Debug\net5.0\EF.runtimeconfig.json
+D:\web\RepositoryPatternWithUOW\EF\bin\Debug\net5.0\EF.runtimeconfig.dev.json
+D:\web\RepositoryPatternWithUOW\EF\bin\Debug\net5.0\EF.dll
+D:\web\RepositoryPatternWithUOW\EF\bin\Debug\net5.0\ref\EF.dll
+D:\web\RepositoryPatternWithUOW\EF\bin\Debug\net5.0\EF.pdb
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\EF.dll
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\ref\EF.dll
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\EF.pdb
+D:\web\RepositoryPatternWithUOW\EF\obj\Debug\net5.0\EF.genruntimeconfig.cache
